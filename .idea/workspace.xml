@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="045bfb68-d771-4cce-96e4-f2bf17a1b040" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SilpoSearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/DataFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/SearchResult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/SilpoRESTAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/InputHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IO/OutputHelper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Branch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/JSONModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/NetworkRequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/NetworkSession.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/ParameterType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2e8p2Z2V9LCfzl1hEDJAqjFtGV3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.API.executor": "Run",
+    "Python.DataFactory.executor": "Run",
+    "Python.NetworkRequest.executor": "Run",
+    "Python.NetworkSession.executor": "Run",
+    "Python.OutputHelper.executor": "Run",
+    "Python.SearchResult.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/autolayout/Projects/SilpoSearch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataFactory" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/IO" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045bfb68-d771-4cce-96e4-f2bf17a1b040" name="Changes" comment="" />
+      <created>1711295854052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711295854052</updated>
+      <workItem from="1711295857334" duration="52000" />
+      <workItem from="1711295980990" duration="8999000" />
+      <workItem from="1711363204031" duration="1351000" />
+      <workItem from="1711545388998" duration="8650000" />
+      <workItem from="1711562894000" duration="748000" />
+      <workItem from="1711563651695" duration="2866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SilpoSearch$NetworkSession.coverage" NAME="NetworkSession Coverage Results" MODIFIED="1711565096159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Network" />
+    <SUITE FILE_PATH="coverage/SilpoSearch$API.coverage" NAME="API Coverage Results" MODIFIED="1711565215694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Network" />
+    <SUITE FILE_PATH="coverage/SilpoSearch$main.coverage" NAME="main Coverage Results" MODIFIED="1711566250589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SilpoSearch$SearchResult.coverage" NAME="SearchResult Coverage Results" MODIFIED="1711565301472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataFactory" />
+    <SUITE FILE_PATH="coverage/SilpoSearch$NetworkRequest.coverage" NAME="NetworkRequest Coverage Results" MODIFIED="1711565183459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Network" />
+    <SUITE FILE_PATH="coverage/SilpoSearch$DataFactory.coverage" NAME="DataFactory Coverage Results" MODIFIED="1711565332201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataFactory" />
+    <SUITE FILE_PATH="coverage/SilpoSearch$OutputHelper.coverage" NAME="OutputHelper Coverage Results" MODIFIED="1711565852554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IO" />
+  </component>
+</project>
